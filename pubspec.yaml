@@ -1,0 +1,40 @@
+name: flutter_app_base_generator
+description: >
+  A comprehensive Flutter app generator that creates complete mobile applications 
+  with authentication, navigation, API setup, and clean architecture using Mason CLI 
+  and custom templates.
+
+version: 1.0.0
+homepage: https://github.com/ks2-projects/flutter_app_base_generator
+repository: https://github.com/ks2-projects/flutter_app_base_generator
+issue_tracker: https://github.com/ks2-projects/flutter_app_base_generator/issues
+documentation: https://github.com/ks2-projects/flutter_app_base_generator#readme
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  args: ^2.4.2
+  path: ^1.8.3
+  io: ^1.0.4
+
+dev_dependencies:
+  test: ^1.24.0
+  lints: ^3.0.0
+
+executables:
+  flutter_app_gen: flutter_app_gen
+
+topics:
+  - flutter
+  - generator
+  - cli
+  - templates
+  - architecture
+  - mobile
+  - boilerplate
+  - scaffold
+
+
+funding:
+  - https://github.com/sponsors/ks2-projects
