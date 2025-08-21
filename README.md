@@ -111,7 +111,7 @@ Este comando desintala la libreria, te tocara instalarla nuevamente
 
  ### 📚 Documentación
 - [Guía de Uso](README.md)
-- [Guía de Comandos]()
+- [Guía de Comandos](COMAND.md)
 - [Configuración del PATH](PATH_SETUP.md)
 
  <img align="right" src="https://c.tenor.com/czt2nIJ1vb0AAAAd/tenor.gif" width = 300px>
